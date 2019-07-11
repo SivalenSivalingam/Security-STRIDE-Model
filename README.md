@@ -1,5 +1,5 @@
-# Security-STRIDE-Model
-Security STRIDE Model
+# Security-STRIDE-Model-Notes
+Security STRIDE Model Notes
 
 The STRIDE model was developed by Microsoft in order to help security engineers understand and classify all possible threats on a server. The name of this model is an acronym for the six main types of threats:
 
